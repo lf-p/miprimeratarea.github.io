@@ -1,0 +1,36 @@
+body {
+    font-family: Times, 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 120%;
+}
+
+header { 
+    background-color: rgb(242, 212, 245);
+}
+
+nav { 
+    background-color: rgb(242, 198, 243);
+}
+
+main { 
+    background-color: rgb(197, 245, 245);
+    font-size: 100%;
+}
+
+footer { 
+    background-color: rgb(204, 204, 240);
+}
+
+li { 
+    display: inline;
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+    font-family: sans-serif, Helvetica, Arial,  ;
+    color: rgb(85, 13, 85);
+}
+
+p { 
+    line-height: 200%;
+}
